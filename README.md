@@ -3,6 +3,12 @@
 -🎓 Estudando Engenharia da Computação na Cruzeiro do Sul Virtual.</br>
 -🌱 Aprendendo mais sobre: Python, Django, Django REST Framework.
 
+
+### Hello! I'm Kaio Herculano, welcome 🫡
+-🧑🏻‍💻 I currently work as an internet installation and maintenance technician.</br>
+-🎓 Studying Computer Engineering at Cruzeiro do Sul Virtual.</br>
+-🌱 Learning more about: Python, Django, Django REST Framework.
+
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio_herculano12/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/kaio-herculano-0063932ba)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaiohercuulano12@gmail.com)
@@ -19,7 +25,7 @@
 
 ## My Skills:
 **Application and data**
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
