@@ -5,6 +5,8 @@
 
 ![Kaio Herculano GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioherculano&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioherculano&layout=compact)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
