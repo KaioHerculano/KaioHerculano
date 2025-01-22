@@ -15,7 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kaio_herculano)
 
 ## Profile summary:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioherculano&layout=donut)](https://github.com/kaioherculano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioherculano&layout=donut&theme=transparent)](https://github.com/kaioherculano/github-readme-stats)
 
 ## Tools:
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
