@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kaio Herculano, seja bem-vindo(a) 🫡
 -🧑🏻‍💻 Atualmente trabalho como Técnico de instalação e manutenção de internet.</br>
 -🎓 Estudando Engenharia da Computação na Cruzeiro do Sul Virtual.</br>
--🌱 Aprendendo mais sobre: Python, Django, Django REST Framework.
+-🌱 Aprendendo mais sobre: Python, Django, Django REST Framework e Docker.
 
 
 ### Hello! I'm Kaio Herculano, welcome 🫡
