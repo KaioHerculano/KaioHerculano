@@ -17,11 +17,11 @@
 ## Profile summary:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaioherculano&layout=donut&theme=transparent)](https://github.com/kaioherculano/github-readme-stats)
 
-## Tools:
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,windows,)](https://skillicons.dev)
-
 ## GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaioherculano&show_icons=true&theme=transparent)
+
+## Tools:
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,windows,)](https://skillicons.dev)
 
 ## My Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,django,aws,bootstrap,docker,html,css)](https://skillicons.dev)
