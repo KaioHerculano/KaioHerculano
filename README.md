@@ -2,7 +2,7 @@
 <p align="center">Seja bem-vindo(a) ao meu perfil! 🫡</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=300&lines=Desenvolvedor+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=400&lines=Desenvolvedor+Back-End+Python" alt="Typing SVG" />
 </p>
 
 ---
