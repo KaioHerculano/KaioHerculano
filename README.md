@@ -54,8 +54,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaioherculano&show_icons=true&theme=transparent&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioherculano&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaioHerculano&theme=github-compact"/>
 </p>
 
 ---
