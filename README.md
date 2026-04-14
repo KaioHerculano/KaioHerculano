@@ -125,9 +125,6 @@ dev = KaioHerculano()
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KaioHerculano&show_icons=true&count_private=true&show=reviews&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaioHerculano&theme=github-dark&hide_border=true&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="Streak Stats" />
       </td>
     </tr>
