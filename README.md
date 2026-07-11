@@ -45,7 +45,7 @@ Desenvolvedor Backend com experiência em **Python**, **Django**, **DRF** e **Fa
 
 ## 💼 Experiência
 
-**Mentor Backend** — Lacrei Saúde *(nov/2025 – atual)*  
+**Mentor Backend** — Lacrei Saúde *(nov/2025 – jul/2026)*  
 **Backend Júnior** — Lacrei Saúde *(ago/2025 – nov/2025)*
 
 ---
